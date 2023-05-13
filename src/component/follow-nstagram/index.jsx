@@ -5,7 +5,7 @@ import React from "react";
 const FollowInstagram = () => {
   return (
     <>
-      <div className=" 2xl:container 2xl:mx-auto md:py-12 lg:px-20 md:px-6 py-9 px-4">
+      {/* <div className=" 2xl:container 2xl:mx-auto md:py-12 lg:px-20 md:px-6 py-9 px-4">
         <div className=" text-center">
           <h2 className=" font-semibold lg:text-4xl text-3xl lg:leading-9 md:leading-7 leading-9 text-gray-800 md:w-full w-9/12 mx-auto">
             Follow Us on Instagram
@@ -190,7 +190,7 @@ const FollowInstagram = () => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </>
   );
 };
