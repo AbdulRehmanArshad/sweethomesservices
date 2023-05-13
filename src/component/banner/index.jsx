@@ -12,8 +12,10 @@ const Banner = () => {
           class="w-full bg-cover bg-center py-32"
           style={{ backgroundImage: `url(${banner})` }}>
           <div class="container mx-auto text-center text-white">
-            <h1 class="text-5xl font-medium mb-6">Welcome to My Agency</h1>
-            <p class="text-xl mb-36">
+            <h1 class="text-2xl lg:text-5xl  font-medium mb-6">
+              Welcome to My Agency
+            </h1>
+            <p class="text-sm lg:text-xl mb-36">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam
               viverra euismod odio, gravida pellentesque urna varius vitae.
             </p>
